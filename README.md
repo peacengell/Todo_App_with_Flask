@@ -40,3 +40,4 @@ tes", "status":"In Progress"}' -H  'Content-Type: application/json'
     1. Refine each api
     2. Add categories to the DB
     3. Think and add more allong the way.
+    4. Think how we can DRY for the helper
